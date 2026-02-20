@@ -1,0 +1,12 @@
+[project]
+name = "agent-infra-agent-memory-store"
+version = "1.0.0"
+description = "Distributed Memory Store for AI Agent State"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [{name = "Yoshi Kondo", email = "yoshi@musicailab.com"}]
+keywords = ["ai", "agent", "infrastructure"]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
