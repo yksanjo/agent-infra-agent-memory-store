@@ -1,0 +1,23 @@
+{
+  "name": "agent-infra-agent-memory-store",
+  "version": "1.0.0",
+  "description": "Distributed memory store for AI agents",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "infrastructure",
+    "agent-memory-store"
+  ],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yksanjo/agent-infra-agent-memory-store.git"
+  }
+}
